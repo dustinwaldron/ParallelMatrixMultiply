@@ -1,0 +1,29 @@
+﻿Build started 3/6/2014 2:18:08 AM.
+     1>Project "C:\Users\Dustin\Downloads\MatrixMultiplyForStudents\MatrixMultiply\MatrixMultiply.vcxproj" on node 2 (Build target(s)).
+     1>_Intel_OpenCL_Build_Rules:
+         Preprocessing: MatrixMultiply.cl
+         cmd.exe /Q /C "C:\Users\Dustin\AppData\Local\Temp\tmpfa5bbcf7104e464d9255e55d6263895f.cmd"
+         "C:\Program Files (x86)\Intel\OpenCL SDK\3.0\bin\x86\ioc32.exe" -cmd=build -input="C:\Users\Dustin\Downloads\MatrixMultiplyForStudents\MatrixMultiply\MatrixMultiply.cl" -output="Debug\MatrixMultiply.out" -VS -device=CPU -simd=default    -bo="           "
+         Using device: CPU
+         
+         Using default instruction set architecture.
+         Intel OpenCL Intel CPU device was found!
+         Device name:       Intel(R) Core(TM) i7-2630QM CPU @ 2.00GHz
+         Device version: OpenCL 1.2 (Build 80752)
+         Device vendor: Intel(R) Corporation
+         Device profile: FULL_PROFILE
+         Compilation started
+         Compilation done
+         Linking started
+         Linking done
+         Kernel <MatrixMultiply> was not vectorized
+         Done.
+         Build succeeded!
+         C:/Users/Dustin/Downloads/MatrixMultiplyForStudents/MatrixMultiply/Debug/MatrixMultiply.out: Generated build log file (double click this line to view)
+       Link:
+         MatrixMultiply.vcxproj -> c:\users\dustin\documents\visual studio 2012\Projects\OpenCLProject1\Debug\MatrixMultiply.exe
+     1>Done Building Project "C:\Users\Dustin\Downloads\MatrixMultiplyForStudents\MatrixMultiply\MatrixMultiply.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.24
